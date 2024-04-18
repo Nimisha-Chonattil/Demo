@@ -11,4 +11,4 @@ jobs:
       - name: Print goodbye
         run: |
           echo "Good Bye!"
-          echo "Bye!"
+          echo "Bye!!"
